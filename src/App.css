@@ -12,6 +12,7 @@
   border-radius: 10px;
   background-color: #fff;
 }
+
 form input{
   border: none;
   outline: 0;
@@ -35,12 +36,14 @@ form .display{
   justify-content: flex-end;
   margin: 5px opx 20px opx;
 }
+
 form .display input {
   text-align: right;
   flex: 1;
   font-size: 40px;
   padding: 5px 10px;
 }
+
 form input.equal{
   width: 123px;
 }
